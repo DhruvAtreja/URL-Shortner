@@ -3,12 +3,6 @@
 </h1>
 
 <h4 align="center">Creating custom URL shortener With Nodejs</h4>
-<div align="center">
-  <sub>Built with ❤︎ </sub>
-</div>
-
-</br>
-Building a custom URL shortening service like goo.gl using ExpressJs and Mongodb
 
 
 ## Technologies
