@@ -22,6 +22,3 @@ yarn install
 yarn run server
 ```
 
-## License
-
-MIT
